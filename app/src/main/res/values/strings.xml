@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CallAndSmsAPI</string>
+    <string name="text_send">Send</string>
+    <string name="text_enter_your_message_here">Enter Your Message Here</string>
+</resources>
